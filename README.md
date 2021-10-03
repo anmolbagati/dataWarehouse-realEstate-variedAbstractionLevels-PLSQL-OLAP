@@ -5,3 +5,4 @@ Datawarehouse formation using fact measures (way of looking at a agregation valu
 2. Star and Snow Flake Schema: Make high level and Low level schemas. Visual understanding of what dimensions we can look at the data from.
 3. SQL to Create Star and snow flake schema.
 4. Run queries for insights using datawarehouse (faster and more efficient than relational database)
+5. OLAP Queries
